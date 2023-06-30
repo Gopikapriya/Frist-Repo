@@ -1,0 +1,8 @@
+public class Demo
+{
+public static void main(String[] args)
+{
+System.in.println("enter ur name");
+System.out.println("hello world");
+}
+}
